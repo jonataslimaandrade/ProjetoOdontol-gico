@@ -16,5 +16,5 @@ public enum SexoType {
 
 	public void setDescricao(String descricao) {
 		this.descricao = descricao;
-	}
+	}// achei voce
 }
