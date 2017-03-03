@@ -1,4 +1,4 @@
-	package br.com.JLAodonto.modelo.entidade;
+package br.com.JLAodonto.modelo.entidade;
 
 public class Contato {
 
