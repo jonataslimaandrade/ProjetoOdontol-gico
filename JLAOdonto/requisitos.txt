@@ -3,10 +3,9 @@
    
 
 
-Clinica Odontologica Coc
+Clinica Odontologica JLA
 -----------------------------
-Minha irmã gostaria de um sistema para gerenciar
-sua clinica.
+Sistema para gerenciar uma clinica.
 
 - Gerenciar os pacientes
 - Gerenciar outras dentistas
@@ -14,3 +13,4 @@ sua clinica.
 - Gerenciar contratos
 - Gerenciar pagamentos				
 
+jdbc:derby://localhost:1527/sample;create=true

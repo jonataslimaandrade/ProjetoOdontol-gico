@@ -3,6 +3,7 @@
 	<name>JLAOdonto</name>
 	<comment></comment>
 	<projects>
+		<project>External Plug-in Libraries</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
